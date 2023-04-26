@@ -97,6 +97,7 @@
     }
     .reac-logo{
         transform: translateY(2px);
+        color: hsl(0, 100%, 67%);
     }
     .reac-text{
         font-family: 'Hanken Grotesk', sans-serif;
@@ -119,6 +120,7 @@
     }
     .memory-logo{
         transform: translateY(2px);
+        color: hsl(39, 100%, 56%);
     }
     .memory-text{
         font-family: 'Hanken Grotesk', sans-serif;
@@ -142,6 +144,7 @@
     }
     .verbal-logo{
         transform: translateY(2px);
+        color: hsl(166, 100%, 37%)
     }
     .verbal-text{
         font-family: 'Hanken Grotesk', sans-serif;
@@ -164,6 +167,7 @@
     }
     .visual-logo{
         transform: translateY(2px);
+        color: hsl(234, 85%, 45%);
     }
     .visual-text{
         font-family: 'Hanken Grotesk', sans-serif;
@@ -299,6 +303,7 @@
     .reac-logo{
         transform: translateY(10%);
         width: 10px;
+        color: hsl(0, 100%, 67%);
     }
     .reac-text{
         font-family: 'Hanken Grotesk', sans-serif;
@@ -324,6 +329,7 @@
     .memory-logo{
         width: 10px;
         transform: translateY(10%);
+        color: hsl(39, 100%, 56%);
     }
     .memory-text{
         font-family: 'Hanken Grotesk', sans-serif;
@@ -350,6 +356,7 @@
     .verbal-logo{
         width: 10px;
         transform: translateY(10%);
+        color: hsl(166, 100%, 37%)
     }
     .verbal-text{
         font-family: 'Hanken Grotesk', sans-serif;
@@ -375,6 +382,7 @@
     .visual-logo{
         width: 10px;
         transform: translateY(10%);
+        color: hsl(234, 85%, 45%);
     }
     .visual-text{
         font-family: 'Hanken Grotesk', sans-serif;
